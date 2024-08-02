@@ -6,6 +6,10 @@ https://github.com/Bubb13/EEex/releases
 
 https://github.com/Bubb13/Bubbs-Spell-Menu-Extended
 
+https://github.com/Renegade0/InfinityUI
+
+https://github.com/Renegade0/RemasteredSpellIcons
+
 https://downloads.weaselmods.net/download/of-paths-and-ways/
 
 https://downloads.weaselmods.net/download/tale-of-our-lady-dreamless/
