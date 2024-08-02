@@ -15,3 +15,18 @@ https://downloads.weaselmods.net/download/the-rediscovery-of-kuldahar/
 https://downloads.weaselmods.net/download/snowytoes-hamlet/
 
 https://downloads.weaselmods.net/download/xikaszs-grove-of-chaos/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+https://github.com/Gibberlings3/SwordCoastStratagems
