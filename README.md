@@ -48,6 +48,8 @@ https://github.com/Gibberlings3/Tweaks-Anthology
 
 https://github.com/Argent77/A7-LightingPackEE/releases
 
+https://github.com/D2-mods/D2-Weapon
+
 
 
 
