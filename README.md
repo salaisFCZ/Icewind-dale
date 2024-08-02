@@ -38,6 +38,8 @@ https://forums.beamdog.com/discussion/78449/mod-lost-items-small-mod-to-restore-
 
 https://forums.beamdog.com/discussion/83483/mod-nonrandom-treasures 
 
+https://forums.beamdog.com/discussion/69213/more-scrolls-for-icewind-dale
+
 https://github.com/Argent77/A7-LightingPackEE/releases
 
 
