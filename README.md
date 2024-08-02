@@ -6,7 +6,7 @@ https://github.com/Bubb13/EEex/releases
 
 https://github.com/Bubb13/Bubbs-Spell-Menu-Extended
 
-https://github.com/Renegade0/InfinityUI
+https://github.com/Renegade0/InfinityUI or https://github.com/Renegade0/DragonspearUI
 
 https://github.com/Renegade0/RemasteredSpellIcons
 
