@@ -2,6 +2,8 @@ Mods para icewind dale (todos en ingles)
 
 --------------------------------------------------------------------------------------------------------------------------------
 
+https://downloads.weaselmods.net/download/of-paths-and-ways/
+
 https://downloads.weaselmods.net/download/tale-of-our-lady-dreamless/
 
 https://downloads.weaselmods.net/download/below-below-inn/
