@@ -1,5 +1,7 @@
 Mods para icewind dale (todos en ingles)
 
+Mods for icewind dale (all in english)
+
 --------------------------------------------------------------------------------------------------------------------------------
 
 https://github.com/Bubb13/EEex/releases
