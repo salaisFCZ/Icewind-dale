@@ -40,6 +40,8 @@ https://forums.beamdog.com/discussion/83483/mod-nonrandom-treasures
 
 https://forums.beamdog.com/discussion/69213/more-scrolls-for-icewind-dale
 
+https://www.morpheus-mart.com/enhanced-powergaming-scripts
+
 https://github.com/Argent77/A7-LightingPackEE/releases
 
 
