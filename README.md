@@ -32,6 +32,14 @@ https://downloads.weaselmods.net/download/findit-iwd/
 
 https://github.com/Argent77/DjinniCompanion
 
+https://github.com/Sampsca/ThrownHammers/releases
+
+https://forums.beamdog.com/discussion/78449/mod-lost-items-small-mod-to-restore-removed-items-from-original-icewind-dale-by-heart-of-winter
+
+https://forums.beamdog.com/discussion/83483/mod-nonrandom-treasures 
+
+https://github.com/Argent77/A7-LightingPackEE/releases
+
 
 
 
