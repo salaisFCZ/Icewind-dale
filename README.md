@@ -50,6 +50,8 @@ https://github.com/Argent77/A7-LightingPackEE/releases
 
 https://github.com/D2-mods/D2-Weapon
 
+https://github.com/Argent77/A7-HiddenGameplayOptions
+
 https://github.com/DaftHunk/Portraits-Portraits-Everywhere/
 
 
