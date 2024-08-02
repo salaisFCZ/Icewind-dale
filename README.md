@@ -30,6 +30,8 @@ https://downloads.weaselmods.net/download/forgeit-iwd/
 
 https://downloads.weaselmods.net/download/findit-iwd/
 
+https://github.com/Argent77/DjinniCompanion
+
 
 
 
