@@ -42,6 +42,8 @@ https://forums.beamdog.com/discussion/69213/more-scrolls-for-icewind-dale
 
 https://www.morpheus-mart.com/enhanced-powergaming-scripts
 
+https://github.com/Gibberlings3/Tweaks-Anthology
+
 https://github.com/Argent77/A7-LightingPackEE/releases
 
 
