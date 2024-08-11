@@ -2,6 +2,8 @@ Mods para icewind dale (todos en ingles)
 
 Mods for icewind dale (all in english)
 
+https://alaundosarchive.wordpress.com/2024/01/01/icewind-dale-ee-mods/
+
 --------------------------------------------------------------------------------------------------------------------------------
 
 https://github.com/Bubb13/EEex/releases
