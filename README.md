@@ -14,6 +14,8 @@ https://github.com/Renegade0/InfinityUI or https://github.com/Renegade0/Dragonsp
 
 https://github.com/Renegade0/RemasteredSpellIcons
 
+https://github.com/Gibberlings3/iwd_unfinished_business
+
 https://downloads.weaselmods.net/download/of-paths-and-ways/
 
 https://downloads.weaselmods.net/download/tale-of-our-lady-dreamless/
