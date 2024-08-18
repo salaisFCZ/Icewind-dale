@@ -14,7 +14,7 @@ https://github.com/Renegade0/InfinityUI or https://github.com/Renegade0/Dragonsp
 
 https://github.com/Renegade0/RemasteredSpellIcons
 
-https://www.sentrizeal.com/pst_7.htm
+https://www.sentrizeal.com/pst_7.htm ( capas y muevas animaciones )
 
 https://github.com/Gibberlings3/iwd_unfinished_business
 
