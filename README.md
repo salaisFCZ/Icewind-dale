@@ -14,8 +14,6 @@ https://github.com/Renegade0/InfinityUI or https://github.com/Renegade0/Dragonsp
 
 https://github.com/Renegade0/RemasteredSpellIcons
 
-https://www.sentrizeal.com/pst_7.htm ( capas y muevas animaciones )
-
 https://github.com/Gibberlings3/iwd_unfinished_business
 
 https://downloads.weaselmods.net/download/of-paths-and-ways/
@@ -61,6 +59,10 @@ https://github.com/Argent77/A7-LightingPackEE/releases
 https://github.com/D2-mods/D2-Weapon
 
 https://github.com/Argent77/A7-HiddenGameplayOptions
+
+https://www.nexusmods.com/baldursgate/mods/56/?tab=description ( mejoras de container sonido )
+
+https://www.sentrizeal.com/pst_7.htm ( capas y muevas animaciones )
 
 https://github.com/DaftHunk/Portraits-Portraits-Everywhere/
 
