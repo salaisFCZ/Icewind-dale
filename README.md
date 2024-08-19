@@ -52,13 +52,9 @@ https://github.com/Argent77/A7-MagicStore
 
 https://www.morpheus-mart.com/enhanced-powergaming-scripts
 
-https://github.com/Gibberlings3/Tweaks-Anthology
-
 https://github.com/Argent77/A7-LightingPackEE/releases
 
 https://github.com/D2-mods/D2-Weapon
-
-https://github.com/Argent77/A7-HiddenGameplayOptions
 
 https://www.nexusmods.com/baldursgate/mods/56/?tab=description ( mejoras de container sonido )
 
@@ -66,17 +62,10 @@ https://www.sentrizeal.com/pst_7.htm ( capas y muevas animaciones )
 
 https://github.com/DaftHunk/Portraits-Portraits-Everywhere/
 
+https://www.nexusmods.com/icewinddaleenhancededition/mods/3
 
+https://github.com/Argent77/A7-HiddenGameplayOptions
 
-
-
-
-
-
-
-
-
-
-
+https://github.com/Gibberlings3/Tweaks-Anthology
 
 https://github.com/Gibberlings3/SwordCoastStratagems
