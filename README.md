@@ -66,8 +66,10 @@ https://www.nexusmods.com/icewinddaleenhancededition/mods/3
 
 https://github.com/Argent77/A7-HiddenGameplayOptions
 
-https://github.com/Gibberlings3/Tweaks-Anthology
+https://github.com/FredrikLindgren/rr  ( ver no oficial )
 
-https://github.com/FredrikLindgren/aTweaks
+https://github.com/FredrikLindgren/aTweaks ( ver no oficial )
+
+https://github.com/Gibberlings3/Tweaks-Anthology
 
 https://github.com/Gibberlings3/SwordCoastStratagems
