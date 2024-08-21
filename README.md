@@ -68,4 +68,6 @@ https://github.com/Argent77/A7-HiddenGameplayOptions
 
 https://github.com/Gibberlings3/Tweaks-Anthology
 
+https://github.com/FredrikLindgren/aTweaks
+
 https://github.com/Gibberlings3/SwordCoastStratagems
