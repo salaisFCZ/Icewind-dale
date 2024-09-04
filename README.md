@@ -75,3 +75,10 @@ https://github.com/r-e-d/EEUITweaks
 https://github.com/Gibberlings3/Tweaks-Anthology
 
 https://github.com/Gibberlings3/SwordCoastStratagems
+
+
+
+------------------------------------------------------------------------------------------------------
+Icewind dale 2 EE
+
+https://github.com/RedChimera/IWD2EE
