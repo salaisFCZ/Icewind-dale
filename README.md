@@ -82,3 +82,5 @@ https://github.com/Gibberlings3/SwordCoastStratagems
 Icewind dale 2 EE
 
 https://github.com/RedChimera/IWD2EE
+
+https://www.gibberlings3.net/files/file/723-iwd2-npc-project/
