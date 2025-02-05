@@ -16,6 +16,8 @@ https://github.com/Renegade0/RemasteredSpellIcons
 
 https://github.com/Gibberlings3/iwd_unfinished_business
 
+https://github.com/Gibberlings3/itemupgrade_iwd
+
 https://downloads.weaselmods.net/download/of-paths-and-ways/
 
 https://downloads.weaselmods.net/download/tale-of-our-lady-dreamless/
