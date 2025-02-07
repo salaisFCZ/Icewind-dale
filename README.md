@@ -10,11 +10,11 @@ https://github.com/Bubb13/EEex/releases
 
 https://github.com/Bubb13/Bubbs-Spell-Menu-Extended
 
-https://github.com/Renegade0/InfinityUI or https://github.com/Renegade0/DragonspearUI
+https://github.com/Renegade0/InfinityUI or https://github.com/Renegade0/DragonspearUI ( español )
 
 https://github.com/Renegade0/RemasteredSpellIcons
 
-https://github.com/Gibberlings3/iwd_unfinished_business
+https://github.com/Gibberlings3/iwd_unfinished_business (español)
 
 https://github.com/Gibberlings3/itemupgrade_iwd
 
