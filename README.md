@@ -34,6 +34,8 @@ https://downloads.weaselmods.net/download/snowytoes-hamlet/
 
 https://downloads.weaselmods.net/download/xikaszs-grove-of-chaos/
 
+https://github.com/Gibberlings3/Geomantic_Sorcerer (español)
+
 https://downloads.weaselmods.net/download/forgeit-iwd/
 
 https://downloads.weaselmods.net/download/findit-iwd/
