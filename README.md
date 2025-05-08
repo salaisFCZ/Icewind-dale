@@ -17,6 +17,8 @@ https://github.com/Renegade0/RemasteredSpellIcons
 https://github.com/Gibberlings3/iwd_unfinished_business (español)
 
 https://github.com/Gibberlings3/itemupgrade_iwd
+------------------------------------------------------------------------------------------------------------------------------
+ZONAS Y QUEST 
 
 https://downloads.weaselmods.net/download/of-paths-and-ways/
 
@@ -33,6 +35,7 @@ https://downloads.weaselmods.net/download/the-rediscovery-of-kuldahar/
 https://downloads.weaselmods.net/download/snowytoes-hamlet/
 
 https://downloads.weaselmods.net/download/xikaszs-grove-of-chaos/
+-------------------------------------------------------------------------------------------------------------------
 
 https://github.com/Gibberlings3/Geomantic_Sorcerer (español)
 
