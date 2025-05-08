@@ -16,7 +16,7 @@ https://github.com/Renegade0/RemasteredSpellIcons
 
 https://github.com/Gibberlings3/iwd_unfinished_business (español)
 
-https://github.com/Gibberlings3/itemupgrade_iwd
+
 ------------------------------------------------------------------------------------------------------------------------------
 ZONAS Y QUEST 
 
@@ -35,7 +35,10 @@ https://downloads.weaselmods.net/download/the-rediscovery-of-kuldahar/
 https://downloads.weaselmods.net/download/snowytoes-hamlet/
 
 https://downloads.weaselmods.net/download/xikaszs-grove-of-chaos/
+
+
 -------------------------------------------------------------------------------------------------------------------
+
 
 https://github.com/Gibberlings3/Geomantic_Sorcerer (español)
 
@@ -46,6 +49,8 @@ https://downloads.weaselmods.net/download/findit-iwd/
 https://github.com/Argent77/DjinniCompanion
 
 https://github.com/Sampsca/ThrownHammers/releases
+
+https://github.com/Gibberlings3/itemupgrade_iwd
 
 https://forums.beamdog.com/discussion/78449/mod-lost-items-small-mod-to-restore-removed-items-from-original-icewind-dale-by-heart-of-winter
 
