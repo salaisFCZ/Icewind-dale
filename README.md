@@ -59,6 +59,7 @@ https://forums.beamdog.com/discussion/83483/mod-nonrandom-treasures
 https://forums.beamdog.com/discussion/69213/more-scrolls-for-icewind-dale
 
 -------------------------------------------------------------------------------------------------------------------
+ARREGLOS VARIOS
 
 https://github.com/Gibberlings3/Geomantic_Sorcerer (español)
 
@@ -89,6 +90,8 @@ https://github.com/FredrikLindgren/aTweaks ( ver no oficial )
 https://github.com/r-e-d/EEUITweaks
 
 https://github.com/Gibberlings3/Tweaks-Anthology
+------------------------------------------------------------------------------------------------------------------
+DIFICULTAD ( ESCOGER 1)
 
 https://github.com/Gibberlings3/SwordCoastStratagems  O https://www.morpheus-mart.com/tactics-remix
 
