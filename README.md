@@ -40,15 +40,13 @@ https://downloads.weaselmods.net/download/arszyk/
 
 
 -------------------------------------------------------------------------------------------------------------------
-
-
-https://github.com/Gibberlings3/Geomantic_Sorcerer (español)
+OBJETOS
 
 https://downloads.weaselmods.net/download/forgeit-iwd/
 
 https://downloads.weaselmods.net/download/findit-iwd/
 
-https://github.com/Argent77/DjinniCompanion
+https://github.com/D2-mods/D2-Weapon
 
 https://github.com/Sampsca/ThrownHammers/releases
 
@@ -60,15 +58,19 @@ https://forums.beamdog.com/discussion/83483/mod-nonrandom-treasures
 
 https://forums.beamdog.com/discussion/69213/more-scrolls-for-icewind-dale
 
+-------------------------------------------------------------------------------------------------------------------
+
+https://github.com/Gibberlings3/Geomantic_Sorcerer (español)
+
 https://github.com/Argent77/A7-GolemConstruction
+
+https://github.com/Argent77/DjinniCompanion
 
 https://github.com/Argent77/A7-MagicStore
 
 https://www.morpheus-mart.com/enhanced-powergaming-scripts
 
 https://github.com/Argent77/A7-LightingPackEE/releases
-
-https://github.com/D2-mods/D2-Weapon
 
 https://www.nexusmods.com/baldursgate/mods/56/?tab=description ( mejoras de container sonido )
 
@@ -88,7 +90,7 @@ https://github.com/r-e-d/EEUITweaks
 
 https://github.com/Gibberlings3/Tweaks-Anthology
 
-https://github.com/Gibberlings3/SwordCoastStratagems
+https://github.com/Gibberlings3/SwordCoastStratagems  O https://www.morpheus-mart.com/tactics-remix
 
 
 
