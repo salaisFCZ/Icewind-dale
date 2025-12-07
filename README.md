@@ -38,6 +38,8 @@ https://downloads.weaselmods.net/download/xikaszs-grove-of-chaos/
 
 https://downloads.weaselmods.net/download/arszyk/
 
+https://downloads.weaselmods.net/download/the-war-of-bloom-and-rot/
+
 
 -------------------------------------------------------------------------------------------------------------------
 
