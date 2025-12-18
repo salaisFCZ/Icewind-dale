@@ -20,7 +20,6 @@ https://github.com/Gibberlings3/iwd_unfinished_business (español)
 ------------------------------------------------------------------------------------------------------------------------------
 ZONAS Y QUEST 
 
-https://downloads.weaselmods.net/download/of-paths-and-ways/
 
 https://downloads.weaselmods.net/download/tale-of-our-lady-dreamless/
 
