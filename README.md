@@ -97,6 +97,8 @@ https://github.com/Gibberlings3/Tweaks-Anthology
 
 https://github.com/Gibberlings3/Divine_Remix
 
+ https://forums.beamdog.com/discussion/77470/mod-battle-music-for-iwd   MUSICA
+
 
 
 ------------------------------------------------------------------------------------------------------------------
