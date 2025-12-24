@@ -62,10 +62,14 @@ https://forums.beamdog.com/discussion/83483/mod-nonrandom-treasures
 
 https://forums.beamdog.com/discussion/69213/more-scrolls-for-icewind-dale
 
+https://forums.beamdog.com/discussion/37290/house-rules-for-iwd-ee-iwdee-tweaks  ( - ITEMS Jiedra and Doluv Bonus Merchants)
+
 -------------------------------------------------------------------------------------------------------------------
 ARREGLOS VARIOS
 
 https://github.com/Gibberlings3/Geomantic_Sorcerer (español)
+
+https://github.com/ArtemiusI/House-Rule-Tweaks   npc soundset for IWDEE (solo eso )
 
 https://github.com/Argent77/A7-GolemConstruction
 
