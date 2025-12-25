@@ -64,6 +64,8 @@ https://forums.beamdog.com/discussion/69213/more-scrolls-for-icewind-dale
 
 https://forums.beamdog.com/discussion/37290/house-rules-for-iwd-ee-iwdee-tweaks  ( - ITEMS Jiedra and Doluv Bonus Merchants)
 
+https://www.morpheus-mart.com/forgotten-armament ( ANTES DE TACTICAL REMIX Forgotten Armament realiza dos actualizaciones, una para Orrick y otra para Conlan, con el fin de proporcionarles más objetos a medida que avanzas en iwd)
+
 -------------------------------------------------------------------------------------------------------------------
 ARREGLOS VARIOS
 
@@ -97,7 +99,7 @@ https://github.com/FredrikLindgren/aTweaks ( ver no oficial )
 
 https://github.com/r-e-d/EEUITweaks
 
-https://github.com/Gibberlings3/Tweaks-Anthology
+https://github.com/Gibberlings3/Tweaks-Anthology ( NO AGREGAR OBJETOS 120 POCIONES 120 GEMAS )
 
 https://github.com/Gibberlings3/Divine_Remix
 
