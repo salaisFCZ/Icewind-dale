@@ -97,6 +97,8 @@ https://github.com/FredrikLindgren/rr  ( ver no oficial )
 
 https://github.com/FredrikLindgren/aTweaks ( ver no oficial )
 
+https://github.com/Argent77/A7-MultiKits
+
 https://github.com/r-e-d/EEUITweaks
 
 https://github.com/Gibberlings3/Tweaks-Anthology ( NO AGREGAR OBJETOS 120 POCIONES 120 GEMAS )
