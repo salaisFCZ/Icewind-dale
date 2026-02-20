@@ -95,7 +95,7 @@ https://www.nexusmods.com/icewinddaleenhancededition/mods/3
 
 https://github.com/Argent77/A7-HiddenGameplayOptions
 
-https://artisans-corner.com/bardic-wonders/ ( solo ocupar usar pergaminos de clerigo , armor caster , new bard spells
+https://artisans-corner.com/bardic-wonders/ ( solo ocupar usar pergaminos de clerigo ,Item Restriction Tweaksâ€”Bards may use Helmets, armor caster , new bard spells,High Level Abilities, Armored Casting for Bards)
 
 https://github.com/FredrikLindgren/rr  ( ver no oficial  mejor bardic wonders , solo items y encuentros )
 
