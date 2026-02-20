@@ -71,6 +71,8 @@ ARREGLOS VARIOS
 
 https://github.com/Gibberlings3/Geomantic_Sorcerer (español)
 
+https://github.com/Argent77/A7-ImprovedArcher
+
 https://github.com/ArtemiusI/House-Rule-Tweaks   npc soundset for IWDEE (solo eso )
 
 https://github.com/Argent77/A7-GolemConstruction
@@ -93,9 +95,9 @@ https://www.nexusmods.com/icewinddaleenhancededition/mods/3
 
 https://github.com/Argent77/A7-HiddenGameplayOptions
 
-https://artisans-corner.com/bardic-wonders/ ( solo ocupar usar pergaminos de clerigo)
+https://artisans-corner.com/bardic-wonders/ ( solo ocupar usar pergaminos de clerigo , armor caster , new bard spells
 
-https://github.com/FredrikLindgren/rr  ( ver no oficial )
+https://github.com/FredrikLindgren/rr  ( ver no oficial  mejor bardic wonders , solo items y encuentros )
 
 https://github.com/FredrikLindgren/aTweaks ( ver no oficial )
 
