@@ -93,6 +93,8 @@ https://www.nexusmods.com/icewinddaleenhancededition/mods/3
 
 https://github.com/Argent77/A7-HiddenGameplayOptions
 
+https://artisans-corner.com/bardic-wonders/ ( solo ocupar usar pergaminos de clerigo)
+
 https://github.com/FredrikLindgren/rr  ( ver no oficial )
 
 https://github.com/FredrikLindgren/aTweaks ( ver no oficial )
