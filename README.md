@@ -75,6 +75,8 @@ https://github.com/Gibberlings3/Geomantic_Sorcerer (español)
 
 https://github.com/Argent77/A7-ImprovedArcher
 
+https://forums.beamdog.com/discussion/41836/mod-kensai-rebalancing-for-bg-ee-and-bgii-ee-v2-6
+
 https://github.com/ArtemiusI/House-Rule-Tweaks   npc soundset for IWDEE (solo eso )
 
 https://github.com/Argent77/A7-GolemConstruction
