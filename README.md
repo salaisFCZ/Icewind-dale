@@ -129,4 +129,6 @@ Icewind dale 2 EE
 
 https://github.com/RedChimera/IWD2EE
 
+https://github.com/Spellhold-Studios/Almateria-IWD2-Fixpack/
+
 https://www.gibberlings3.net/files/file/723-iwd2-npc-project/
