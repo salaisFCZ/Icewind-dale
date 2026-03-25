@@ -39,7 +39,6 @@ https://downloads.weaselmods.net/download/arszyk/
 
 https://downloads.weaselmods.net/download/the-war-of-bloom-and-rot/
 
-https://downloads.weaselmods.net/download/will-of-the-wisps/ ( agrega enemigos ? en iwd ee ? ) opcion de kit
 
 
 -------------------------------------------------------------------------------------------------------------------
