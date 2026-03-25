@@ -6,6 +6,10 @@ https://alaundosarchive.wordpress.com/2024/01/01/icewind-dale-ee-mods/
 
 --------------------------------------------------------------------------------------------------------------------------------
 
+https://github.com/Gibberlings3/EE_Fixpack
+
+https://github.com/Spellhold-Studios/Icewind-Dale-Graphical-Overhaul
+
 https://github.com/Bubb13/EEex/releases
 
 https://github.com/Bubb13/Bubbs-Spell-Menu-Extended
