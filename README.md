@@ -26,6 +26,8 @@ https://downloads.weaselmods.net/download/arszyk/
 
 https://github.com/Argent77/A7-ImprovedArcher
 
+https://forums.beamdog.com/discussion/41836/mod-kensai-rebalancing-for-bg-ee-and-bgii-ee-v2-6/p1 ( ver en no oficial )
+
 https://downloads.weaselmods.net/download/tale-of-our-lady-dreamless/
 
 https://downloads.weaselmods.net/download/below-below-inn/
