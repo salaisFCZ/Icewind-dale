@@ -117,7 +117,7 @@ https://github.com/Gibberlings3/Tweaks-Anthology ( NO AGREGAR OBJETOS 120 POCION
 
 https://github.com/Gibberlings3/Divine_Remix
 
-https://www.gibberlings3.net/mods/items/item_rev/ ( SOLO Kensai Can Wear Bracers: V4 Beta 10)
+https://forums.beamdog.com/discussion/41836/mod-kensai-rebalancing-for-bg-ee-and-bgii-ee-v2-6/p1
 
  https://forums.beamdog.com/discussion/77470/mod-battle-music-for-iwd   MUSICA
 
