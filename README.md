@@ -12,8 +12,6 @@ https://github.com/Spellhold-Studios/Icewind-Dale-Graphical-Overhaul
 
 https://github.com/Bubb13/EEex/releases
 
-https://github.com/Bubb13/Bubbs-Spell-Menu-Extended
-
 https://github.com/Renegade0/InfinityUI or https://github.com/Renegade0/DragonspearUI ( español )
 
 https://github.com/Renegade0/RemasteredSpellIcons
@@ -121,6 +119,8 @@ https://github.com/Gibberlings3/Divine_Remix
 https://www.gibberlings3.net/mods/items/item_rev/ ( SOLO Kensai Can Wear Bracers: V4 Beta 10)
 
  https://forums.beamdog.com/discussion/77470/mod-battle-music-for-iwd   MUSICA
+
+ https://github.com/Bubb13/Bubbs-Spell-Menu-Extended
 
 
 
