@@ -24,6 +24,8 @@ ZONAS Y QUEST
 
 https://downloads.weaselmods.net/download/arszyk/
 
+https://github.com/Argent77/A7-ImprovedArcher
+
 https://downloads.weaselmods.net/download/tale-of-our-lady-dreamless/
 
 https://downloads.weaselmods.net/download/below-below-inn/
